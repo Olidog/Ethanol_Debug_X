@@ -1,2 +1,2 @@
-# Ethanol_Debug_X
-PMbus voltage controller communication
+# PMbus using Arduino
+PMbus ISL68127 voltage controller communication
